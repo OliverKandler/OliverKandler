@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I run a niche website [Smart Personal Finance](https://smartpersonalfinance.info/) and program financial calculators for that website.
 
 ### Footnotes
-<b id="f1">1</b> Xwitter = X formerly knwon as Twitter [↩](#a1)
+<b id="f1">1</b> Xwitter = X formerly known as Twitter [↩](#a1)
 
 <!---
 OliverKandler/OliverKandler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
